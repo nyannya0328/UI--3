@@ -53,30 +53,6 @@ struct ContentView: View {
                         
                         
                         
-                        //                        Circle().fill(Color.red).frame(width: 80, height: 80).offset(y: self.size2)
-                        //                        Circle().fill(Color.red).frame(width: 80, height: 80).offset(y: self.size3)
-                        
-                        
-                        
-                        //                        Image("image")
-                        //                            .resizable()
-                        //                            .renderingMode(.original)
-                        //                            .frame(width: number, height: number).offset(y: self.size1).clipShape(Circle())
-                        //
-                        //
-                        //
-                        //
-                        //                        Image("image")
-                        //                            .resizable()
-                        //                            .frame(width: number, height: number).offset(y: self.size2).clipShape(Circle())
-                        //
-                        //
-                        //
-                        //                        Image("image")
-                        //                            .resizable()
-                        //                            .frame(width: number, height: number).offset(y: self.size3).clipShape(Circle())
-                        
-                        
                         
                     }
                     
@@ -135,7 +111,7 @@ struct ContentView: View {
                     
                     
                 }.animation(.spring(response: 0.6, dampingFraction: 0.6, blendDuration: 0.6 ))
-              
+                
                 
                 
                 
